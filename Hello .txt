@@ -1,1 +1,2 @@
 This is my first file added to GitHub!
+I just updated this file as part of my GitHub learning journey!
